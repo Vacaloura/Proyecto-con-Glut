@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FinalSGI.vcxproj" Id="7354003a-3c28-4cbe-ae17-328657115161" />
+</Solution>

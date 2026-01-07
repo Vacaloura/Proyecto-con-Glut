@@ -16,13 +16,13 @@ Este proyecto implementa una escena 3D interactiva que incluye:
 ## 🖼️ Capturas de Pantalla
 
 ### Vista Frontal
-![Vista del Templo](Imagen1.png)
+![Vista del Templo](Imagen1.PNG)
 
 ### Vista superior
-![Puerta Torii](Imagen2.png)
+![Puerta Torii](Imagen2.PNG)
 
 ### Vista lateral
-![Entorno Completo](Imagen3.png)
+![Entorno Completo](Imagen3.PNG)
 
 ## 🛠️ Tecnologías Utilizadas
 
